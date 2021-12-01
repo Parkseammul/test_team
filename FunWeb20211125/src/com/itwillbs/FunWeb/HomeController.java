@@ -35,7 +35,8 @@ public class HomeController {
 		
 		return "home";
 		
-		/*update*/
+		/*update
+		update*/
 	}
 	
 }
