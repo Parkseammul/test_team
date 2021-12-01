@@ -39,7 +39,7 @@ public class HomeController {
 		 * 
 		 * <h1>spring</h1>
 		   <h1>update</h1>
-		   <h2>eclips update</h2>
+		   병합</h2>
 	
 	*/
 	}
