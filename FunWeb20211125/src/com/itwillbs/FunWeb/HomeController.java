@@ -35,7 +35,13 @@ public class HomeController {
 		
 		return "home";
 		
-		/*update*/
+		/*update
+		 * 
+		 * <h1>spring</h1>
+		   <h1>update</h1>
+		   <h2>eclips update</h2>
+	
+	*/
 	}
 	
 }
