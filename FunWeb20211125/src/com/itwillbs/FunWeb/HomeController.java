@@ -35,13 +35,9 @@ public class HomeController {
 		
 		return "home";
 		
-		/*update
-		 * 
-		 * <h1>spring</h1>
-		   <h1>update</h1>
-		   병합</h2>
-	
-	*/
+	/*
+	 * test update 10:37
+	 * */
 	}
 	
 }
