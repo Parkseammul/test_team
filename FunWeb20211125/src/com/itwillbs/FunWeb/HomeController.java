@@ -35,9 +35,11 @@ public class HomeController {
 		
 		return "home";
 		
-	/*
-	 * test update 10:37
-	 * */
+
+		/*test update 10:37*/
+
+		/*test update 10:38*/
+
 	}
 	
 }
